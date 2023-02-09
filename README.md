@@ -1,3 +1,6 @@
+# The Complete Guide
+
+View the Complete Guide [on Notion in this link](https://www.notion.so/yonatankof/Jamstack-The-Complete-Guide-dcf470cd24a14cc2a82b592903f526c0)
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
